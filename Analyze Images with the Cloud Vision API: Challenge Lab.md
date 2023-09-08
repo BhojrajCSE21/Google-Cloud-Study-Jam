@@ -4,14 +4,13 @@
 ## Upload the downaloaded file in Cloud Shell
 
 # First Command
-'''
+'''cmd
 export API_KEY=
 '''
 
 
 # Second Command
-'''
+'''cmd
 sudo chmod +x quicklabarc122.sh 
-
 ./quicklabarc122.sh 
 '''
