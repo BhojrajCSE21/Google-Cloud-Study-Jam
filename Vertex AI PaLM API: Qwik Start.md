@@ -1,4 +1,4 @@
-# GSP1155
+# Vertex AI PaLM API: Qwik Start GSP1155
 step1
 ### APIs & Services > APIs & Services > `Vertex AI API` > Enable
 step2
