@@ -4,7 +4,7 @@
 
 For Zone click on Task 1
 ```cmd
-export REGION1=
+export ZONE=
 ```
 ```cmd
 curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Cloud%20Monitoring%20Qwik%20Start/quicklabgsp089.sh
